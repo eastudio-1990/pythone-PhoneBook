@@ -1,6 +1,6 @@
 import os
 
-PATH = "C:/Users/irantech24.com/Desktop/db.txt"
+PATH = "Your File Address Here" ##Example : C:\...##
 
 def validation():
     if not os.path.exists(PATH):
